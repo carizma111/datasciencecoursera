@@ -1,0 +1,15 @@
+activityLabels: Stores activityLable data
+features:Stores features data
+featuresreq.names: Stores all feature's names with mean and stddev in their names
+train: Stores train data
+trainActivities: Stores trainActivities data
+trainSubjects: Stores trainSubjects data
+test: Stores test data
+testActivities: Stores testActivities data
+testSubjects: Stores testSubjects data
+consol_data: Consolidates train and test data
+consol_data.melted:Pivots consol_data
+consol_data.mean:Calculates the average of each variable for each activity and each subject
+
+
+
